@@ -1,1 +1,0 @@
-import{o as t,c,a as e,_ as o}from"./index-7383d653.js";const a={class:"contact"},s="Hello from contact view",i={__name:"Contact",setup(n){return(_,r)=>(t(),c("div",a,[e(o,{title:s})]))}};export{i as default};
